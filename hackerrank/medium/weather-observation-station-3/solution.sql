@@ -1,1 +1,4 @@
-select name from city where countrycode='JPN';
+/*
+Enter your query here.
+*/
+SELECT distinct city from station where id%2=0;

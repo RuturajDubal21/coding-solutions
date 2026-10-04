@@ -23,7 +23,7 @@ The **CITY** table is described as follows:
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T16:28:45.296Z  
+**Submitted:** 2026-10-04T16:29:19.928Z  
 
 ```sql
 select name from city where countrycode='JPN';
